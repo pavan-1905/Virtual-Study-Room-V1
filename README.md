@@ -4,7 +4,7 @@
 **Key features include synchronized Pomodoro timers, progress tracking, AI-powered study insights, and real-time communication via text and video chat. By integrating habit-building analytics and productivity recommendations, the platform helps users stay motivated and achieve their study goals efficiently. Designed as a web-based application, it is accessible across multiple devices without requiring any installations.**
 
 # Features
-**Productivity Tools**
+## Productivity Tools
 
 -> **Pomodoro Timer**: Enables synchronized study sessions using the Pomodoro technique to enhance concentration.
 
@@ -16,7 +16,7 @@
 
 -> **AI Study Suggestions**: Provides personalized study insights and recommendations based on usage patterns.
 
-**Communication & Collaboration**
+## Communication & Collaboration
 
 -> **Real-Time Text Chat**: A distraction-free chat system for seamless discussions.
 
@@ -24,13 +24,13 @@
 
 -> **Habit-Building Analytics**: Tracks study patterns and offers AI-based productivity insights.
 
-**Deployment & Accessibility**
+## Deployment & Accessibility
 
 -> **Web-Based Platform**: No installation required; accessible from any device with an internet connection.
 
 -> **Hosted on Netlify**: Ensures smooth deployment with automatic updates.
 
-**Tech Stack**
+## Tech Stack
 
 -> **Frontend**: React (JavaScript, JSX, Tailwind CSS for styling)
 
@@ -45,7 +45,7 @@
 
 # Installation & Setup
 
-**Prerequisites**
+## Prerequisites
 
 -**Ensure you have the following installed:**
 
@@ -67,7 +67,7 @@
       <code style="color : cyan">npm install</code>
      
 
-**Set up Firebase:**
+## Set up Firebase
 
 -> **Go to the Firebase Console.**
 
@@ -89,7 +89,7 @@
 -> **The application should now be running on http://localhost:3000/.**
 
 
-**Deployment**
+## Deployment
 
 **The project is deployed on Netlify for easy access and automatic updates.**
 
