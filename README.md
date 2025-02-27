@@ -1,4 +1,4 @@
-# Virtual-Study-Room 
+# Virtual Study Room 
 **The Virtual Study Room is an interactive platform designed to facilitate virtual study sessions with productivity tools that enhance focus, accountability, and collaboration. This platform creates a structured and engaging environment for students and professionals by providing real-time interaction, goal tracking, and AI-driven study recommendations.**
 
 **Key features include synchronized Pomodoro timers, progress tracking, AI-powered study insights, and real-time communication via text and video chat. By integrating habit-building analytics and productivity recommendations, the platform helps users stay motivated and achieve their study goals efficiently. Designed as a web-based application, it is accessible across multiple devices without requiring any installations.**
@@ -55,7 +55,7 @@
 
 -> **A Firebase account with Firestore and Authentication enabled.**
 
-# Steps to Set Up Locally
+## Steps to Set Up Locally
 
 -> **Clone the repository:**
       <code style="color : cyan">git clone https://github.com/your-username/virtual-study-room.git</code>
